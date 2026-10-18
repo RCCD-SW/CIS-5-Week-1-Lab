@@ -48,12 +48,12 @@ Hello World!
 - Canvas submission filed
 
 ## Rubric (100)
+
 | Criterion | Pts |
 |-----------|----:|
-| Environment works end-to-end | 30 |
-| Hello World correct | 30 |
-| GitHub repo usable | 20 |
-| Short demo video | 20 |
+| Code submitted that does the work | 50 |
+| Video explanation | 50 |
+
 
 ## Scope fence
 No loops, functions, or arrays required. One file is enough.
